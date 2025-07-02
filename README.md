@@ -4,6 +4,19 @@ Sharpen your **Computer Science vocabulary** with this interactive Python-based 
 
 ---
 
+## 🎮 Game Concept
+
+**Hangman** is a classic word-guessing game. In this version:
+
+- The computer randomly selects a word related to **Computer Science**.
+- You try to guess the word by entering one letter at a time.
+- Each incorrect guess adds a part to the ASCII art hangman figure.
+- The game ends when:
+  - You correctly guess all the letters (🎉 You win!)
+  - The hangman is fully drawn after too many wrong guesses (💀 You lose!)
+
+---
+
 ## 🚀 Features
 
 - ✅ Randomly selects a computer science–related word
